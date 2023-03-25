@@ -25,7 +25,7 @@ main {
   max-width: 26.563rem;
 }
 
-.pokemon_image {
+.pokemon-image {
   position: absolute;
   bottom: 55%;
   left: 50%;
